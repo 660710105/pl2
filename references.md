@@ -1,9 +1,5 @@
----
-description: แหล่งอ้างอิง
-icon: paperclip
----
-
 # References
+แหล่งอ้างอิง
 
 ## <mark style="color:$danger;">การเพิ่มโมดูลคณิตศาสตร์ในภาษาต่าง ๆ</mark>
 
