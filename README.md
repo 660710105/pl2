@@ -1,7 +1,3 @@
----
-icon: gem
----
-
 # Ruby Math Functions and Methods
 
 การใช้งานฟังก์ชันและเมธอดต่าง ๆ ทางคณิตศาสตร์ของภาษาเขียนโปรแกรม Ruby
