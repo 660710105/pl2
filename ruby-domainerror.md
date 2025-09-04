@@ -1,9 +1,5 @@
----
-description: ข้อผิดพลาดของโดเมน
-icon: circle-exclamation
----
-
 # Ruby DomainError
+ข้อผิดพลาดของโดเมน
 
 ### <mark style="color:$danger;">Ruby</mark>
 
