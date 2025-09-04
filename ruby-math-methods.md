@@ -1,7 +1,3 @@
----
-icon: gear-complex
----
-
 # Ruby Math Methods
 
 ใน module Math ของภาษาเขียนโปรแกรม Ruby มีฟังก์ชันทางคณิตศาสตร์ที่ใช้ผ่านเมธอด

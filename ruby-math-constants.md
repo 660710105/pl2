@@ -2,7 +2,6 @@
 description: >-
   ใน module Math ของภาษาเขียนโปรแกรม Ruby มีค่าคงที่ทางคณิตศาสตร์ที่ใช้กันทั่วไป
   2 ค่า
-icon: pi
 ---
 
 # Ruby Math Constants
